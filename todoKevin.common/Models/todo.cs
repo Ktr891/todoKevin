@@ -2,7 +2,7 @@
 
 namespace todoKevin.common.Models
 {
-    public class todo
+    public class Todo
     {
         public DateTime CreatedTime { get; set; }
         public string TaskDescription { get; set; }

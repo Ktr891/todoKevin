@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoKevin.common", "todoKev
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoKevin.Functions", "todoKevin.Functions\todoKevin.Functions.csproj", "{AE1D76F6-55E4-484D-BFAB-220AFFA37FBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoKevin.Test", "todoKevin.Test\todoKevin.Test.csproj", "{EC6775A6-F823-46AD-A861-C11B6F77D585}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoKevin.Test", "todoKevin.Test\todoKevin.Test.csproj", "{EC6775A6-F823-46AD-A861-C11B6F77D585}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

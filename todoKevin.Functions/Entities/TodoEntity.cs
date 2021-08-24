@@ -12,4 +12,4 @@ namespace todoKevin.Functions.Entities
         public bool IsCompleted { get; set; }
     }
 }
-}
+
